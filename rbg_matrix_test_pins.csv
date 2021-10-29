@@ -1,0 +1,93 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+# File: C:\Users\Thinkpad Owner\Documents\UFFall2021\Senior\rbg_matrix_test_pins.csv
+# Generated on: Thu Oct 28 20:29:38 2021
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+a,Output,PIN_AB19,4,B4_N0,PIN_AB19,,,,,
+b,Output,PIN_AB18,4,B4_N0,PIN_AB18,,,,,
+b1,Output,PIN_T15,4,B4_N0,PIN_T15,,,,,
+b2,Output,PIN_W15,4,B4_N0,PIN_W15,,,,,
+c,Output,PIN_AA18,4,B4_N0,PIN_AA18,,,,,
+clk_in,Input,PIN_G21,6,B6_N1,PIN_G21,,,,,
+clk_out,Output,PIN_AA20,4,B4_N0,PIN_AA20,,,,,
+d,Output,PIN_AA17,4,B4_N1,PIN_AA17,,,,,
+g1,Output,PIN_W17,4,B4_N0,PIN_W17,,,,,
+g2,Output,PIN_U15,4,B4_N0,PIN_U15,,,,,
+int_addr[8],Output,,,,PIN_E13,,,,,
+int_addr[7],Output,,,,PIN_B14,,,,,
+int_addr[6],Output,,,,PIN_AB13,,,,,
+int_addr[5],Output,,,,PIN_AB14,,,,,
+int_addr[4],Output,,,,PIN_P20,,,,,
+int_addr[3],Output,,,,PIN_R19,,,,,
+int_addr[2],Output,,,,PIN_P21,,,,,
+int_addr[1],Output,,,,PIN_N16,,,,,
+int_addr[0],Output,,,,PIN_AA14,,,,,
+int_data[47],Output,,,,PIN_V13,,,,,
+int_data[46],Output,,,,PIN_N19,,,,,
+int_data[45],Output,,,,PIN_R2,,,,,
+int_data[44],Output,,,,PIN_Y13,,,,,
+int_data[43],Output,,,,PIN_AB10,,,,,
+int_data[42],Output,,,,PIN_V11,,,,,
+int_data[41],Output,,,,PIN_U11,,,,,
+int_data[40],Output,,,,PIN_R20,,,,,
+int_data[39],Output,,,,PIN_U22,,,,,
+int_data[38],Output,,,,PIN_T12,,,,,
+int_data[37],Output,,,,PIN_U21,,,,,
+int_data[36],Output,,,,PIN_R13,,,,,
+int_data[35],Output,,,,PIN_R22,,,,,
+int_data[34],Output,,,,PIN_V14,,,,,
+int_data[33],Output,,,,PIN_AB16,,,,,
+int_data[32],Output,,,,PIN_AA13,,,,,
+int_data[31],Output,,,,PIN_T14,,,,,
+int_data[30],Output,,,,PIN_A14,,,,,
+int_data[29],Output,,,,PIN_AA10,,,,,
+int_data[28],Output,,,,PIN_W14,,,,,
+int_data[27],Output,,,,PIN_AA15,,,,,
+int_data[26],Output,,,,PIN_R21,,,,,
+int_data[25],Output,,,,PIN_AA16,,,,,
+int_data[24],Output,,,,PIN_D13,,,,,
+int_data[23],Output,,,,PIN_N21,,,,,
+int_data[22],Output,,,,PIN_V21,,,,,
+int_data[21],Output,,,,PIN_F13,,,,,
+int_data[20],Output,,,,PIN_C13,,,,,
+int_data[19],Output,,,,PIN_U12,,,,,
+int_data[18],Output,,,,PIN_P22,,,,,
+int_data[17],Output,,,,PIN_U13,,,,,
+int_data[16],Output,,,,PIN_V12,,,,,
+int_data[15],Output,,,,PIN_Y10,,,,,
+int_data[14],Output,,,,PIN_H12,,,,,
+int_data[13],Output,,,,PIN_R18,,,,,
+int_data[12],Output,,,,PIN_W10,,,,,
+int_data[11],Output,,,,PIN_AB15,,,,,
+int_data[10],Output,,,,PIN_W13,,,,,
+int_data[9],Output,PIN_B1,1,B1_N0,PIN_B1,,,,,
+int_data[8],Output,PIN_B2,1,B1_N0,PIN_B2,,,,,
+int_data[7],Output,PIN_C2,1,B1_N0,PIN_C2,,,,,
+int_data[6],Output,PIN_C1,1,B1_N0,PIN_C1,,,,,
+int_data[5],Output,PIN_E1,1,B1_N0,PIN_E1,,,,,
+int_data[4],Output,PIN_F2,1,B1_N0,PIN_F2,,,,,
+int_data[3],Output,PIN_H1,1,B1_N1,PIN_H1,,,,,
+int_data[2],Output,PIN_J3,1,B1_N1,PIN_J3,,,,,
+int_data[1],Output,PIN_J2,1,B1_N1,PIN_J2,,,,,
+int_data[0],Output,PIN_J1,1,B1_N1,PIN_J1,,,,,
+lat,Output,PIN_AA19,4,B4_N0,PIN_AA19,,,,,
+oe,Output,PIN_AB20,4,B4_N0,PIN_AB20,,,,,
+r1,Output,PIN_AB17,4,B4_N1,PIN_AB17,,,,,
+r2,Output,PIN_Y17,4,B4_N0,PIN_Y17,,,,,
+rst_n,Input,PIN_H2,1,B1_N1,PIN_H2,,,,,
