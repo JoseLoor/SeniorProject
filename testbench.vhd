@@ -36,7 +36,7 @@ architecture tb of testbench is
 begin
     
     -- Instantiate the Unit Under Test (UUT)
-    UUT : entity work.rgb_matrix_test
+    UUT : entity work.rgbmatrix
         port map (
             clk_in => clk_in,
             rst_n => rst_n,

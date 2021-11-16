@@ -29,7 +29,7 @@ use ieee.std_logic_unsigned.all;
 
 use work.rgbmatrix.all; -- Constants & Configuration in config.vhd
 
-entity rgb_matrix_test is
+entity Animation is
     port (
       --uP signals
 --        uP_clk  : in std_logic;
@@ -61,7 +61,7 @@ entity rgb_matrix_test is
 --		  int_data_valid : out std_logic;
 --		  int_clk : out std_logic
     );
-end rgb_matrix_test;
+end Animation;
 
 ------------------------------------------------------
 --Pin on DE0   Pin on LED  Name in Code  Pin Location
@@ -82,7 +82,7 @@ end rgb_matrix_test;
 -- GPIO_D12    B2				 b2				PIN_W15
 		  
 
-architecture str of rgb_matrix_test is
+architecture str of Animation is
 
     -- Reset signals
     signal rst, rst_p, jtag_rst_out, clk_100 : std_logic;

@@ -67,7 +67,7 @@ BEGIN
 		clock_enable_input_a => "BYPASS",
 		clock_enable_input_b => "BYPASS",
 		clock_enable_output_b => "BYPASS",
-		init_file => "../../../../Users/Thinkpad Owner/Documents/UFFall2021/Senior/MIT_FPGA/test_file.mif",
+		init_file => "../../../Users/jose_/OneDrive/Documentos/UF/Fall 21/Senior/SeniorProject/test_file.mif",
 		init_file_layout => "PORT_B",
 		intended_device_family => "Cyclone III",
 		lpm_type => "altsyncram",
@@ -132,7 +132,7 @@ END SYN;
 -- Retrieval info: PRIVATE: MAXIMUM_DEPTH NUMERIC "0"
 -- Retrieval info: PRIVATE: MEMSIZE NUMERIC "24576"
 -- Retrieval info: PRIVATE: MEM_IN_BITS NUMERIC "0"
--- Retrieval info: PRIVATE: MIFfilename STRING "../../../../Users/Thinkpad Owner/Documents/UFFall2021/Senior/MIT_FPGA/test_file.mif"
+-- Retrieval info: PRIVATE: MIFfilename STRING "../../../Users/jose_/OneDrive/Documentos/UF/Fall 21/Senior/SeniorProject/test_file.mif"
 -- Retrieval info: PRIVATE: OPERATION_MODE NUMERIC "2"
 -- Retrieval info: PRIVATE: OUTDATA_ACLR_B NUMERIC "0"
 -- Retrieval info: PRIVATE: OUTDATA_REG_B NUMERIC "0"
@@ -165,7 +165,7 @@ END SYN;
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_INPUT_A STRING "BYPASS"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_INPUT_B STRING "BYPASS"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_OUTPUT_B STRING "BYPASS"
--- Retrieval info: CONSTANT: INIT_FILE STRING "../../../../Users/Thinkpad Owner/Documents/UFFall2021/Senior/MIT_FPGA/test_file.mif"
+-- Retrieval info: CONSTANT: INIT_FILE STRING "../../../Users/jose_/OneDrive/Documentos/UF/Fall 21/Senior/SeniorProject/test_file.mif"
 -- Retrieval info: CONSTANT: INIT_FILE_LAYOUT STRING "PORT_B"
 -- Retrieval info: CONSTANT: INTENDED_DEVICE_FAMILY STRING "Cyclone III"
 -- Retrieval info: CONSTANT: LPM_TYPE STRING "altsyncram"
